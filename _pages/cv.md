@@ -11,31 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Biochemistry, University of Montreal, 2015
+* M.Sc. in Bioinformatics, University of Montreal, 2017
+* Ph.D in Computer Science, University of Montreal, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2012-2015: Research Intern
+  * Institute for Research in Immunology and Cancer
+  * Theme: Role of the immunoproteasome in acute myeloid leukemia.
+  * Supervisor: Dr. Claude Perreault
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2014: Research Intern
+  * University of Montreal
+  * Theme: Perturbation of the activity of MBNL contributes to the pathogenesis of myotonic dystrophy.
+  * Supervisor: Dr. Pascal Chartrand
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -56,4 +47,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 5 different slack teams
