@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Consume coffee, solve problems
+I like coffee
 ======
 More later
